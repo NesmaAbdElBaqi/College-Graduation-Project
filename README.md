@@ -1,1 +1,2 @@
-# College-Graduation-Project
+# Child Emotions Classification Project
+College-Graduation-Project
